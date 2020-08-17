@@ -1,0 +1,20 @@
+{
+  "id": 5,
+  "name": "Tablet",
+  "price": 899,
+  "description": "Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a necessidade de renovação processual causa impacto indireto na reavaliação do orçamento setorial.",
+  "stock": 2,
+  "img": "../api/products/tablet/tablet-foto.jpg",
+  "reviews": [
+    {
+      "name": "Rogério",
+      "stars": 5,
+      "description": "Gostei muito do produto, atendeu todas as minhas necessidades."
+    },
+    {
+      "name": "Nathália",
+      "stars": 4,
+      "description": "Gostei, mas o preço poderia ser melhor."
+    }
+  ]
+}
